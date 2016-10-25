@@ -3,6 +3,8 @@
     $CW_CHARGEMODE =2;      // mit diesem Abrechnungstypen tauchen CW Flüge in VF auf
     $CW_COMMENT = "Import von Charterware"; // Standardkommentar für importierte CW Flüge
     
+    // TestTestTest
+    
     
     require_once('VereinsfliegerRestInterface.php');
     
